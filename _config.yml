@@ -15,9 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am intersted in developing my skills in Machine Learning to advance my career in data science.
   <br><br>
   </p>
-  
-  <a href="https://www.linkedin.com/in/peter-okeke/">View My LinkedIn Profile</a> 
+   
 show_downloads: true  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
+#google_analytics: UA-145578661-1 # Google Analytics tracking ID
