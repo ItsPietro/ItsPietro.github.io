@@ -1,10 +1,21 @@
-title: Peter Okeke
+title: <p align="center"> Peter Okeke </p>
+
 logo: "/images/Peter_Okeke.jpg?raw=true"
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/peter-okeke/">LinkedIn</a> |
+  <a href="https://github.com/ItsPietro">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am passionate about leveraging data-driven insights to solve complex problems and drive strategic decision making.
   <br><br>
-  Second description 
+  I am intersted in developing my skills in Machine Learning to advance my career in data science.
   <br><br>
+  </p>
+  
   <a href="https://www.linkedin.com/in/peter-okeke/">View My LinkedIn Profile</a> 
 show_downloads: true  
 remote_theme: pages-themes/minimal@v0.2.0
