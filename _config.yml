@@ -1,6 +1,7 @@
 title: <p align="center"> Peter Okeke </p>
 
-logo: <a href="url"><img src="/images/Peter_Okeke.jpg?raw=true" height="auto" width="200" style="border-radius:50%"></a>
+logo: "/images/Peter_Okeke.jpg?raw=true"
+<a href="url"><img src="/images/Peter_Okeke.jpg?raw=true" height="auto" width="200" style="border-radius:50%"></a>
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
