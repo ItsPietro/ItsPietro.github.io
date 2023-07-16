@@ -13,7 +13,7 @@
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Movie Classification 
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
@@ -24,7 +24,7 @@
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Load Shortfall Analysis
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
@@ -33,6 +33,3 @@
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
-
----
-<center>© 2023 Peter Okeke. </center>
