@@ -9,7 +9,7 @@
 
 <div style="text-align: justify"> Created a system that can take in a text of the South African languages and classify it based on the 11 South African Languages.</div>
 <br>
-<center><img src="images/language_classification.jpg"/></center>
+<center><img src="images/language.PNG"/></center>
 <br>
 
 ---
