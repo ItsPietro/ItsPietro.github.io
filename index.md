@@ -9,7 +9,7 @@
 
 <div style="text-align: justify"> I used the Eskom dataset to build an informative dashboard using Microsoft PowerBI. The dashboard reports were used to derive insight into the energy crisis in South Africa and how the existing infrastructure impact on the company's capacity and the efficiency of energy generated</div>
 <br>
-<center><img src="images/Eskom1.png"/></center>
+<center><img src="images/Eskom2.png"/></center>
 <br>
 
 ---
