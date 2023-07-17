@@ -2,6 +2,16 @@
 ---
 ## Data Science
 
+### Eskom Capacity and Efficiency Dashboard
+
+[![Open Notebook](https://img.shields.io/badge/PowerBI-Open_Notebook-yellow?logo=PowerBI)](https://github.com/ItsPietro/language-classification-hackathon/blob/main/classification_hackathon_notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ItsPietro/language-classification-hackathon)
+
+<div style="text-align: justify"> South Africa is a multilingual country with 11 official languages. We developed a system that is capable of processing texts written in South African languages and identifying which specific language among the 11 official languages is being used.</div>
+<br>
+
+<br>
+
 ### South Africa Language Classification
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ItsPietro/language-classification-hackathon/blob/main/classification_hackathon_notebook.ipynb)
