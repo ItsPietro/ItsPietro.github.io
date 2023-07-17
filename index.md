@@ -9,7 +9,7 @@
 
 <div style="text-align: justify"> I used the Eskom dataset to build an informative dashboard using Microsoft PowerBI. The dashboard reports were used to derive insight into the energy crisis in South Africa and how the existing infrastructure impact on the company's capacity and the efficiency of energy generated</div>
 <br>
-<center><img src="images/classifier_app.png"/></center>
+<center><img src="images/Dashboard3.png"/></center>
 <br>
 
 ### South Africa Language Classification
