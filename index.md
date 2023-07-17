@@ -4,12 +4,12 @@
 
 ### Eskom Capacity and Efficiency Dashboard
 
-[![Open Notebook](https://img.shields.io/badge/PowerBI-Open_Notebook-green?logo=PowerBI)](https://github.com/ItsPietro/language-classification-hackathon/blob/main/classification_hackathon_notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ItsPietro/language-classification-hackathon)
+[![Open PowerBI](https://img.shields.io/badge/PowerBI-Open_PowerBI-yellow?logo=PowerBI)](https://github.com/ItsPietro/Eskom-Capacity-and-Efficiency-Dashboard/blob/main/eskom_dashboard.pbix)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ItsPietro/Eskom-Capacity-and-Efficiency-Dashboard/tree/main)
 
-<div style="text-align: justify"> South Africa is a multilingual country with 11 official languages. We developed a system that is capable of processing texts written in South African languages and identifying which specific language among the 11 official languages is being used.</div>
+<div style="text-align: justify"> I used the Eskom dataset to build an informative dashboard using Microsoft PowerBI. The dashboard reports were used to derive insight into the energy crisis in South Africa and how the existing infrastructure impact on the company's capacity and the efficiency of energy generated</div>
 <br>
-
+<center><img src="images/classifier_app.png"/></center>
 <br>
 
 ### South Africa Language Classification
